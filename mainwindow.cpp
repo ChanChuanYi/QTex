@@ -13,6 +13,9 @@ str.prepend("haha");
 qDebug() << str;
 str.append("yaya");
 qDebug() << str;
+QString str2 = "yabee";
+qDebug() << str2;
+
 }
 
 MainWindow::~MainWindow()
